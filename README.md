@@ -36,7 +36,7 @@ python app.py
 3. artifact_entity
 4. component
 5. pipeline
-6. app.py
+6. app.py / demo.py
 
 ## Export the environment variables
 ```bash
