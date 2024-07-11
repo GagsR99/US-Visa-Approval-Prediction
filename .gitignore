@@ -162,3 +162,5 @@ cython_debug/
 #.idea/
 
 artifact/*
+
+MongoDB_Connection_URL.txt
