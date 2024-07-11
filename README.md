@@ -41,6 +41,6 @@ python app.py
 ## Export the environment variables
 ```bash
 
-export MONGODB_URL="mongodb+srv://rasinenigagan:vH0M3z3EdaU5a0mE@cluster0.5o80sus.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+export MONGODB_URL="mongodb+srv://rasinenigagan:<password>@cluster0.5o80sus.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 ```
