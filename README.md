@@ -43,4 +43,7 @@ python app.py
 
 export MONGODB_URL="mongodb+srv://rasinenigagan:<password>@cluster0.5o80sus.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
+export AWS_ACCESS_KEY_ID=<AWS_ACCESS_KEY_ID>
+
+export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
 ```
