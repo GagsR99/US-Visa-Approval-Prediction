@@ -119,7 +119,7 @@ setting>actions>runner>new self hosted runner> choose os> then run command one b
 - AWS_DEFAULT_REGION
 - ECR_REPO
 
-# Workflow
+# Project Flow
 ## 1. Data Ingestion
 Description: This is the initial step where raw data is collected from various sources. This can include databases, CSV files, APIs, web scraping, or other data streams. The goal is to gather all relevant data required for the project.
 
